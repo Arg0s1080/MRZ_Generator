@@ -1,3 +1,5 @@
+# Project deprecated. If you're interested go to https://github.com/Arg0s1080/mrz
+
 # MZR Generator
 
 ## Description:
